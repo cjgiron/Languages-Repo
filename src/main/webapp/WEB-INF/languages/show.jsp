@@ -18,5 +18,6 @@
 	    <input type="submit" value="Delete">
 	</form> --%>
 	<a href="/languages/${language.id}/delete">Delete</a>
+	<a href="/languages">Dashboard</a>
 </body>
 </html>
